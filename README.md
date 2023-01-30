@@ -12,6 +12,7 @@ This was a project created for [SwampHacks 2023](https://2023.swamphacks.com/) o
 - [Accomplishments](#accomplishments)
 - [Learnings](#what-we-learned)
 - [What's next for Mindalism](#whats-next-for-mindalism)
+- [Team](#team)
 
 ---
 
