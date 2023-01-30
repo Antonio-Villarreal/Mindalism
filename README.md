@@ -46,7 +46,7 @@ We learned the importance of planning and task distribution amongst team members
 We initiated the steps to connect our project with Firebase, but ran out of time to completely initiate the setup so focusing on more efficient storage and user authentication would be utmost. Another step would be providing improved sentiment analysis and insights to enable users to be more informed about their experience, outlook, and mindset. Improving the UI for better ease and accessibility for users would be important, especially since we would want to put it on the App Store.
 
 ## Team
-Antonio Villarreal - https://www.linkedin.com/in/antoniovillarreal2024/  
-Taise Miyazumi - https://www.linkedin.com/in/taisemiyazumi/
-Joshua Fu - https://www.linkedin.com/in/fu-joshua/
+Antonio Villarreal - https://www.linkedin.com/in/antoniovillarreal2024/   
+Taise Miyazumi - https://www.linkedin.com/in/taisemiyazumi/   
+Joshua Fu - https://www.linkedin.com/in/fu-joshua/   
 Jerry Wang - https://www.linkedin.com/in/jerry-wang-8b4658247/
